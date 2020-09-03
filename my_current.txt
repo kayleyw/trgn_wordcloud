@@ -1,0 +1,394 @@
+Sections
+
+SEARCH
+
+Skip to contentSkip to site index
+
+[Science](https://www.nytimes.com/section/science)
+
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
+
+[Science](/section/science)|Coronavirus Vaccine Tracker
+
+https://nyti.ms/2MHNdRL
+
+  *   *   *   *   * ### [The Coronavirus Outbreak](https://www.nytimes.com/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=a6d2f200-edb4-11ea-bf32-e996aa9bdb0d&variant=undefined)
+
+  * live[Latest Updates](https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=a6d2f201-edb4-11ea-bf32-e996aa9bdb0d&variant=undefined)
+  * [Maps and Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=a6d2f202-edb4-11ea-bf32-e996aa9bdb0d&variant=undefined)
+  * [2 Possible Vaccines](https://www.nytimes.com/article/covid-vaccine-a-b.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=a6d2f203-edb4-11ea-bf32-e996aa9bdb0d&variant=undefined)
+  * [Vaccine Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=a6d31910-edb4-11ea-bf32-e996aa9bdb0d&variant=undefined)
+  * [In-Person School vs. Remote](https://www.nytimes.com/2020/09/01/health/coronavirus-parents-schools.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=a6d31911-edb4-11ea-bf32-e996aa9bdb0d&variant=undefined)
+
+# Coronavirus Vaccine Tracker
+
+By [Jonathan Corum](https://www.nytimes.com/by/jonathan-corum), [Denise
+Grady](https://www.nytimes.com/by/denise-grady), [Sui-Lee
+Wee](https://www.nytimes.com/by/sui-lee-wee) and [Carl
+Zimmer](https://www.nytimes.com/by/carl-zimmer)Updated September 2, 2020
+
+  *   *   *   * if (!window.Promise || !window.fetch || !window.URL) { document.write('<script src="https://static01.nyt.com/newsgraphics/2020/06/10/coronavirus-vaccine-tracker/974d2612d3588f71ef5e5dcc67f4a01f29906416/polyfills.js"><\/script>'); }  (function() { window.NYTG = window.NYTG || {}; window.NYTG.ASSETS = "https://static01.nyt.com/newsgraphics/2020/06/10/coronavirus-vaccine-tracker/974d2612d3588f71ef5e5dcc67f4a01f29906416/".slice(0, -1); window.NYTG.BIG_ASSETS = "https://static01.nyt.com/newsgraphics/2020/06/10/coronavirus-vaccine-tracker/assets/".slice(0, -1); var supports_import = false; var can_use_import = location.hostname.indexOf('preview.n' + 'yt.net') == -1; var shimport_url = window.NYTG.ASSETS + "/shimport@1.0.1.js"; var shimport_promise; try { new Function("if(0)import('')")(); supports_import = true; } catch(e) { } if (!can_use_import || !supports_import) { shimport_promise = new Promise(function(fulfil, reject) { var s = document.createElement("script"); s.src = shimport_url; s.onload = function() { fulfil(__shimport__); }; s.onerror = reject; document.head.appendChild(s); }); } window.NYTG.load = function(module) { var url = new URL(module, location.href).href; if (can_use_import && supports_import) { return eval("import('" + url + "')"); } else { return shimport_promise.then(function(shimport) { return shimport.load(url); }); } }; // for --live window.NYTG.subscribers = {}; window.NYTG.watch = function(url, cb) { if (!window.NYTG.subscribers[url]) window.NYTG.subscribers[url] = []; window.NYTG.subscribers[url].push(cb); window.NYTG.load(url).then(cb); }; }());  (function() { // Check for template type: standard, minimal, or blank var templateType = "template-" + ("" || "standard"); // Check for icon style options var templateStyle = "template-option-" + ("HIDE_TOP_AD" || "black-icons"); // Check for dark mode flag var isDarkMode = "".match(/y|yes|true/) !== null; var darkMode = (isDarkMode) ? " " + "template-mode-dark" : ""; // Check for feature style flag var isFeatureStyle = "".toLowerCase().match(/feature|featured|feat/) !== null; var featureStyle = (isFeatureStyle) ? "template-style-feature" : "template-style-standard"; // Set classes on body element var tBody = document.body.classList.add(...[templateType.trim(), templateStyle.trim(), darkMode.trim(), featureStyle.trim()].filter(d => !!d)); })(); 
+
+.g-asset.g-embed .g-asset.g-footer-nav { width: 100%; } html.story .g-body {
+width: 100%; max-width: 100%; } header#interactive-header .breadcrumbs-wrap a,
+header#interactive-header .breadcrumbs-wrap a:hover, div#g-2020-03-16
+-coronavirus-maps-embed a, div#g-2020-03-16-coronavirus-maps-embed a:hover {
+color: black; } .g-svelte { font-family: nyt-franklin,helvetica,arial,sans-
+serif; margin-left: auto; margin-right: auto; } .g-asset button { font-family:
+nyt-franklin, arial, sans-serif; }
+
+Skip to main content
+
+[ The Guardian - Back to home ](https://www.theguardian.com/us)
+
+[ Contribute  ](https://support.theguardian.com/contribute?INTCMP=header_suppo
+rt_contribute&acquisitionData=%7B%22componentType%22:%22ACQUISITIONS_HEADER%22
+,%22componentId%22:%22header_support_contribute%22,%22source%22:%22GUARDIAN_WE
+B%22%7D) [ Subscribe  ](https://support.theguardian.com/subscribe?INTCMP=heade
+r_support_subscribe&acquisitionData=%7B%22componentType%22:%22ACQUISITIONS_HEA
+DER%22,%22componentId%22:%22header_support_subscribe%22,%22source%22:%22GUARDI
+AN_WEB%22%7D) [ Contribute  ](https://support.theguardian.com/contribute?INTCM
+P=header_support_contribute&acquisitionData=%7B%22componentType%22:%22ACQUISIT
+IONS_HEADER%22,%22componentId%22:%22header_support_contribute%22,%22source%22:
+%22GUARDIAN_WEB%22%7D)
+
+  * [ News ](https://www.theguardian.com/us)
+  * [ Opinion ](https://www.theguardian.com/us/commentisfree)
+  * [ Sport ](https://www.theguardian.com/us/sport)
+  * [ Culture ](https://www.theguardian.com/us/culture)
+  * [ Lifestyle ](https://www.theguardian.com/us/lifeandstyle)
+Show More __
+
+  * __ News 
+    * [ US news ](https://www.theguardian.com/us-news)
+    * [ Elections 2020 ](https://www.theguardian.com/us-news/us-elections-2020)
+    * [ World news ](https://www.theguardian.com/world)
+    * [ Environment ](https://www.theguardian.com/us/environment)
+    * [ Soccer ](https://www.theguardian.com/football)
+    * [ US politics ](https://www.theguardian.com/us-news/us-politics)
+    * [ Business ](https://www.theguardian.com/us/business)
+    * [ Tech ](https://www.theguardian.com/us/technology)
+    * [ Science ](https://www.theguardian.com/science)
+  * __ Opinion 
+    * [ The Guardian view ](https://www.theguardian.com/profile/editorial)
+    * [ Columnists ](https://www.theguardian.com/index/contributors)
+    * [ Letters ](https://www.theguardian.com/tone/letters)
+    * [ Opinion videos ](https://www.theguardian.com/type/video+tone/comment)
+    * [ Cartoons ](https://www.theguardian.com/cartoons/archive)
+  * __ Sport 
+    * [ Soccer ](https://www.theguardian.com/football)
+    * [ NFL ](https://www.theguardian.com/sport/nfl)
+    * [ Tennis ](https://www.theguardian.com/sport/tennis)
+    * [ MLB ](https://www.theguardian.com/sport/mlb)
+    * [ MLS ](https://www.theguardian.com/football/mls)
+    * [ NBA ](https://www.theguardian.com/sport/nba)
+    * [ NHL ](https://www.theguardian.com/sport/nhl)
+  * __ Culture 
+    * [ Film ](https://www.theguardian.com/us/film)
+    * [ Books ](https://www.theguardian.com/books)
+    * [ Music ](https://www.theguardian.com/music)
+    * [ Art & design ](https://www.theguardian.com/artanddesign)
+    * [ TV & radio ](https://www.theguardian.com/us/tv-and-radio)
+    * [ Stage ](https://www.theguardian.com/stage)
+    * [ Classical ](https://www.theguardian.com/music/classicalmusicandopera)
+    * [ Games ](https://www.theguardian.com/games)
+  * __ Lifestyle 
+    * [ Fashion ](https://www.theguardian.com/fashion)
+    * [ Food ](https://www.theguardian.com/food)
+    * [ Recipes ](https://www.theguardian.com/tone/recipes)
+    * [ Love & sex ](https://www.theguardian.com/lifeandstyle/love-and-sex)
+    * [ Home & garden ](https://www.theguardian.com/lifeandstyle/home-and-garden)
+    * [ Health & fitness ](https://www.theguardian.com/lifeandstyle/health-and-wellbeing)
+    * [ Family ](https://www.theguardian.com/lifeandstyle/family)
+    * [ Travel ](https://www.theguardian.com/us/travel)
+    * [ Money ](https://www.theguardian.com/us/money)
+
+What term do you want to search? __ Search with google
+
+  * [ Make a contribution ](https://support.theguardian.com/contribute?INTCMP=side_menu_support_contribute&acquisitionData=%7B%22componentType%22:%22ACQUISITIONS_HEADER%22,%22componentId%22:%22side_menu_support_contribute%22,%22source%22:%22GUARDIAN_WEB%22%7D)
+  * [ Subscribe ](https://support.theguardian.com/subscribe?INTCMP=side_menu_support_subscribe&acquisitionData=%7B%22componentType%22:%22ACQUISITIONS_HEADER%22,%22componentId%22:%22side_menu_support_subscribe%22,%22source%22:%22GUARDIAN_WEB%22%7D)
+  * __ US edition 
+    * [ switch to the  UK edition ](https://www.theguardian.com/preference/edition/uk)
+    * [ switch to the  Australia edition ](https://www.theguardian.com/preference/edition/au)
+    * [ switch to the  International edition ](https://www.theguardian.com/preference/edition/int)
+  * [ Search jobs ](https://jobs.theguardian.com?INTCMP=jobs_us_web_newheader_dropdown)
+  * [ Digital Archive ](https://theguardian.newspapers.com)
+  * [ Coupons ](https://discountcode.theguardian.com)
+  * [ Guardian Puzzles app ](https://puzzles.theguardian.com/download)
+  * [ The Guardian app ](https://www.theguardian.com/mobile/2014/may/29/the-guardian-for-mobile-and-tablet)
+  * [ Video ](https://www.theguardian.com/video)
+  * [ Podcasts ](https://www.theguardian.com/podcasts)
+  * [ Pictures ](https://www.theguardian.com/inpictures)
+  * [ Newsletters ](https://www.theguardian.com/email-newsletters)
+  * [ Inside the Guardian ](https://www.theguardian.com/membership)
+  * [ Guardian Weekly ](https://www.theguardian.com/weekly?INTCMP=gdnwb_mawns_editorial_gweekly_GW_TopNav_US)
+  * [ Crosswords ](https://www.theguardian.com/crosswords)
+  * [ Facebook ](https://www.facebook.com/theguardian)
+  * [ Twitter ](https://twitter.com/guardian)
+  * [ Search jobs ](https://jobs.theguardian.com?INTCMP=jobs_us_web_newheader_dropdown)
+  * [ Digital Archive ](https://theguardian.newspapers.com)
+  * [ Coupons ](https://discountcode.theguardian.com)
+  * [ Guardian Puzzles app ](https://puzzles.theguardian.com/download)
+
+[ Coronavirus outbreak  ](https://www.theguardian.com/world/coronavirus-
+outbreak)
+
+# Covid vaccine tracker: when will a coronavirus vaccine be ready?
+
+More than 170 teams of researchers are racing to develop a safe and effective
+vaccine. Here is their progress
+
+Wed 2 Sep 2020 04.43 EDT Last modified on Wed 2 Sep 2020 05.05 EDT
+
+[Niko Kommenda](https://www.theguardian.com/profile/niko-kommenda) and  [Frank
+Hulley-Jones](https://www.theguardian.com/profile/frank-hulley-jones)
+
+Wed 2 Sep 2020 04.43 EDT Last modified on Wed 2 Sep 2020 05.05 EDT
+
+  * [ Share on Facebook ](https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fng-interactive%2F2020%2Fsep%2F02%2Fcovid-vaccine-tracker-when-will-a-coronavirus-vaccine-be-ready%3FCMP%3Dshare_btn_fb)
+  * [ Share on Twitter ](https://twitter.com/intent/tweet?text=Covid%20vaccine%20tracker%3A%20when%20will%20a%20coronavirus%20vaccine%20be%20ready%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fng-interactive%2F2020%2Fsep%2F02%2Fcovid-vaccine-tracker-when-will-a-coronavirus-vaccine-be-ready%3FCMP%3Dshare_btn_tw)
+  * [ Share via Email ](mailto:?subject=Covid%20vaccine%20tracker%3A%20when%20will%20a%20coronavirus%20vaccine%20be%20ready%3F&body=https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fng-interactive%2F2020%2Fsep%2F02%2Fcovid-vaccine-tracker-when-will-a-coronavirus-vaccine-be-ready%3FCMP%3Dshare_btn_link)
+
+## Pre-clinical
+
+vaccines not yet in human trials
+
+## 139
+
+## Phase 1
+
+vaccines in small-scale safety trials
+
+## 25
+
+## Phase 2
+
+vaccines in expanded safety trials
+
+## 15
+
+## Phase 3
+
+vaccines in large-scale efficacy trials
+
+## 7
+
+## Approved
+
+vaccines approved for general use
+
+## 0
+
+Source: WHO. Last updated 25 Aug
+
+Researchers around the world are racing to develop a vaccine against Covid-19,
+with [more than 170 candidate vaccines now
+tracked](https://www.who.int/publications/m/item/draft-landscape-of-covid-19
+-candidate-vaccines) by the World Health Organization (WHO).
+
+Vaccines normally require years of testing and additional time to produce at
+scale, but scientists are hoping to develop a coronavirus vaccine within 12 to
+18 months.
+
+Vaccines mimic the virus – or part of the virus – they protect against,
+stimulating the immune system to develop antibodies. They must follow higher
+safety standards than other drugs because they are given to millions of
+healthy people.
+
+## Recent vaccine news
+
+AstraZeneca has [started
+trials](https://www.theguardian.com/business/2020/aug/25/astrazeneca-covid-19
+-antibody-drug-trial-volunteers-vaccine) for a drug which could work as a
+preventative option for healthy people or slow the disease’s progression in
+those who are already infected.
+
+Russian health authorities [have
+approved](https://www.theguardian.com/world/live/2020/aug/11/coronavirus-live-
+news-who-chief-says-its-never-too-late-to-turn-outbreak-around-as-cases-near-
+20m?page=with:block-5f3262f58f08da3d1603a315#block-5f3262f58f08da3d1603a315) a
+coronavirus vaccine which has yet to complete clinical trials.
+
+## How are vaccines tested?
+
+In the **pre-clinical stage** of testing, researchers give the vaccine to
+animals to see if it triggers an immune response.
+
+In **phase 1** of clinical testing, the vaccine is given to a small group of
+people to determine whether it is safe and to learn more about the immune
+response it provokes.
+
+In **phase 2**, the vaccine is given to hundreds of people so scientists can
+learn more about its safety and correct dosage.
+
+In **phase 3**, the vaccine is given to thousands of people to confirm its
+safety – including rare side effects – and effectiveness. These trials involve
+a control group which is given a placebo.
+
+## Vaccines in clinical trials
+
+### Phase in progress
+
+### Phase completed
+
+University of Oxford/AstraZeneca
+
+The University of Oxford vaccine is delivered via a chimpanzee virus, called
+the vaccine vector. The vector contains the genetic code of the protein spikes
+found on the coronavirus and triggers a strong immune response in the human
+body. The vaccine is in a combined phase 2/3 trial in the UK and [has recently
+gone into phase 3 trials in South Africa and
+Brazil](http://www.ox.ac.uk/news/2020-06-28-trial-oxford-covid-19-vaccine-
+starts-brazil).
+
+BioNTech/Fosun Pharma/Pfizer
+
+Wuhan Institute of Biological Products/Sinopharm
+
+Moderna/NIAID
+
+American biotech company Moderna is developing a vaccine candidate using
+messenger RNA (or mRNA for short) to trick the body into producing viral
+proteins itself. No mRNA vaccine has ever been approved for an infectious
+disease, and Moderna [has never brought a product to
+market](https://edition.cnn.com/2020/05/01/us/coronavirus-moderna-vaccine-
+invs/index.html). But proponents of the vaccine say it could be easier to mass
+produce than traditional vaccines.
+
+Sinovac
+
+Chinese company Sinovac is developing a vaccine based on inactivated Covid-19
+particles. The vaccine has shown a promising safety profile in the early
+stages of testing and is now moving into Phase 3 trials in Brazil.
+
+Beijing Institute of Biological Products/Sinopharm
+
+CanSino Biologics Inc./Beijing Institute of Biotechnology
+
+Novavax
+
+Kentucky Bioprocessing, Inc
+
+Arcturus/Duke-NUS
+
+Cadila Healthcare Limited
+
+Osaka University/ AnGes/ Takara Bio
+
+Bharat Biotech
+
+Inovio Pharmaceuticals/ International Vaccine Institute
+
+Janssen Pharmaceutical Companies
+
+Anhui Zhifei Longcom Biopharmaceutical/Institute of Microbiology, Chinese
+Academy of Sciences
+
+Genexine Consortium
+
+Institute of Medical Biology, Chinese Academy of Medical Sciences
+
+Curevac
+
+University of Queensland/CSL/Seqirus
+
+Vaxine Pty Ltd/Medytox
+
+People's Liberation Army (PLA) Academy of Military Sciences/Walvax Biotech.
+
+Medicago Inc.
+
+Imperial College London
+
+Institute Pasteur/Themis/Univ. of Pittsburgh CVR/Merck Sharp & Dohme
+
+Instituto Finlay de Vacunas, Cuba
+
+Medigen Vaccine Biologics Corporation/NIAID/Dynavax
+
+Clover Biopharmaceuticals Inc./GSK/Dynavax
+
+ReiThera/LEUKOCARE/Univercells
+
+Gamaleya Research Institute
+
+University of Melbourne/Murdoch Children’s Research Institute
+
+The Murdoch Children’s Research Institute in Australia is conducting a phase 3
+trial using a nearly 100-year-old tuberculosis vaccine. The vaccine is not
+thought to protect directly against Covid-19 but might boost the body’s non-
+specific immune response.
+
+Source: WHO. Last updated 25 Aug
+
+[Niko Kommenda](https://www.theguardian.com/profile/niko-kommenda) and  [Frank
+Hulley-Jones](https://www.theguardian.com/profile/frank-hulley-jones)
+
+Wed 2 Sep 2020 04.43 EDT Last modified on Wed 2 Sep 2020 05.05 EDT
+
+  * [ Share on Facebook ](https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fng-interactive%2F2020%2Fsep%2F02%2Fcovid-vaccine-tracker-when-will-a-coronavirus-vaccine-be-ready%3FCMP%3Dshare_btn_fb)
+  * [ Share on Twitter ](https://twitter.com/intent/tweet?text=Covid%20vaccine%20tracker%3A%20when%20will%20a%20coronavirus%20vaccine%20be%20ready%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fng-interactive%2F2020%2Fsep%2F02%2Fcovid-vaccine-tracker-when-will-a-coronavirus-vaccine-be-ready%3FCMP%3Dshare_btn_tw)
+  * [ Share via Email ](mailto:?subject=Covid%20vaccine%20tracker%3A%20when%20will%20a%20coronavirus%20vaccine%20be%20ready%3F&body=https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fng-interactive%2F2020%2Fsep%2F02%2Fcovid-vaccine-tracker-when-will-a-coronavirus-vaccine-be-ready%3FCMP%3Dshare_btn_link)
+
+##  [Most popular](https://www.theguardian.com/most-read/world)
+
+  * [ World ](https://www.theguardian.com/world)
+  * [ Europe ](https://www.theguardian.com/world/europe-news)
+  * [ US ](https://www.theguardian.com/us-news)
+  * [ Americas ](https://www.theguardian.com/world/americas)
+  * [ Asia ](https://www.theguardian.com/world/asia)
+  * [ Australia ](https://www.theguardian.com/australia-news)
+  * [ Middle East ](https://www.theguardian.com/world/middleeast)
+  * [ Africa ](https://www.theguardian.com/world/africa)
+  * [ Inequality ](https://www.theguardian.com/inequality)
+  * [ Global development ](https://www.theguardian.com/global-development)
+
+  * [ News ](https://www.theguardian.com/us)
+  * [ Opinion ](https://www.theguardian.com/us/commentisfree)
+  * [ Sport ](https://www.theguardian.com/us/sport)
+  * [ Culture ](https://www.theguardian.com/us/culture)
+  * [ Lifestyle ](https://www.theguardian.com/us/lifeandstyle)
+
+    * [ About us ](https://www.theguardian.com/info/about-guardian-us)
+    * [ Contact us ](https://www.theguardian.com/info/about-guardian-us/contact)
+    * [ Complaints & corrections ](https://www.theguardian.com/info/complaints-and-corrections)
+    * [ SecureDrop ](https://www.theguardian.com/securedrop)
+    * [ Work for us ](https://workforus.theguardian.com)
+    * [ Privacy policy ](https://www.theguardian.com/info/privacy)
+    * [ Cookie policy ](https://www.theguardian.com/info/cookies)
+    * [ Terms & conditions ](https://www.theguardian.com/help/terms-of-service)
+    * [ Help ](https://www.theguardian.com/help)
+    * [ All topics ](https://www.theguardian.com/index/subjects/a)
+    * [ All writers ](https://www.theguardian.com/index/contributors)
+    * [ Digital newspaper archive ](https://theguardian.newspapers.com)
+    * [ Facebook ](https://www.facebook.com/theguardian)
+    * [ Twitter ](https://twitter.com/guardian)
+    * [ Advertise with us ](https://advertising.theguardian.com/us/advertising)
+    * [ Guardian Labs ](https://www.theguardian.com/guardian-labs-us)
+    * [ Search jobs ](https://jobs.theguardian.com?INTCMP=NGW_FOOTER_US_GU_JOBS)
+    * [ Discount Codes ](https://discountcode.theguardian.com/)
+
+Support The Guardian
+
+Available for everyone, funded by readers
+
+[ Contribute  ](https://support.theguardian.com/contribute?INTCMP=footer_suppo
+rt_contribute&acquisitionData=%7B%22componentType%22:%22ACQUISITIONS_FOOTER%22
+,%22componentId%22:%22footer_support_contribute%22,%22source%22:%22GUARDIAN_WE
+B%22%7D) [ Subscribe  ](https://support.theguardian.com/subscribe?INTCMP=foote
+r_support_subscribe&acquisitionData=%7B%22componentType%22:%22ACQUISITIONS_FOO
+TER%22,%22componentId%22:%22footer_support_subscribe%22,%22source%22:%22GUARDI
+AN_WEB%22%7D)
+
+Back to top
+
+© 2020 Guardian News & Media Limited or its affiliated companies. All rights
+reserved.
+
+Close
+
+![](//phar.gu-web.net/count/pvg.gif) ![](https://sb.scorecardresearch.com/p?c1
+=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&gdpr=0&comscorekw=Coronavirus+outbreak%2CI
+nfectious+diseases%2CMedical+research%2CMicrobiology%2CBiology%2CScience%2CWor
+ld+news) ![](//phar.gu-web.net/count/pv.gif)
+

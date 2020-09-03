@@ -12,13 +12,13 @@ Skip to contentSkip to site index
 
 https://nyti.ms/2MHNdRL
 
-  *   *   *   *   * ### [The Coronavirus Outbreak](https://www.nytimes.com/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=a6d2f200-edb4-11ea-bf32-e996aa9bdb0d&variant=undefined)
+  *   *   *   *   * ### [The Coronavirus Outbreak](https://www.nytimes.com/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=ea75ec20-edbd-11ea-a3f5-65b383d5db93&variant=undefined)
 
-  * live[Latest Updates](https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=a6d2f201-edb4-11ea-bf32-e996aa9bdb0d&variant=undefined)
-  * [Maps and Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=a6d2f202-edb4-11ea-bf32-e996aa9bdb0d&variant=undefined)
-  * [2 Possible Vaccines](https://www.nytimes.com/article/covid-vaccine-a-b.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=a6d2f203-edb4-11ea-bf32-e996aa9bdb0d&variant=undefined)
-  * [Vaccine Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=a6d31910-edb4-11ea-bf32-e996aa9bdb0d&variant=undefined)
-  * [In-Person School vs. Remote](https://www.nytimes.com/2020/09/01/health/coronavirus-parents-schools.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=a6d31911-edb4-11ea-bf32-e996aa9bdb0d&variant=undefined)
+  * live[Latest Updates](https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=ea761330-edbd-11ea-a3f5-65b383d5db93&variant=undefined)
+  * [Maps and Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=ea761331-edbd-11ea-a3f5-65b383d5db93&variant=undefined)
+  * [2 Possible Vaccines](https://www.nytimes.com/article/covid-vaccine-a-b.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=ea761332-edbd-11ea-a3f5-65b383d5db93&variant=undefined)
+  * [Vaccine Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=ea761333-edbd-11ea-a3f5-65b383d5db93&variant=undefined)
+  * [In-Person School vs. Remote](https://www.nytimes.com/2020/09/01/health/coronavirus-parents-schools.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=ea761334-edbd-11ea-a3f5-65b383d5db93&variant=undefined)
 
 # Coronavirus Vaccine Tracker
 

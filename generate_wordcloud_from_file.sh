@@ -5,13 +5,13 @@ counter=1
 
 while read url
 
- do
+    do
 
-    wget -O ~/assignments/trgn_wordcloud/current_pages/file${counter}.html $url
+        wget -O ~/assignments/trgn_wordcloud/current_pages/file${counter}.html $url
 
-    ((counter++)) 
+        ((counter++)) 
 
-done<my_webpages.txt
+    done<my_webpages.txt
 
 ~/bin/html2text.py current_pages/file1.html > my_current.txt
 
